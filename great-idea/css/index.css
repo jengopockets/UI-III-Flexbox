@@ -214,6 +214,7 @@ body {
 	  display: flex;
 	  justify-content: flex-start;
 	  flex-direction: column;
+	  width: 49%;
   }
   li{
 	  padding: 10px;
